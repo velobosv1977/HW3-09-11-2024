@@ -82,7 +82,5 @@ public class Main {
         } else if (three>one && three>two) {
             System.out.println("Число three="+three+" больше остальных");
         }
-
-
     }
 }
