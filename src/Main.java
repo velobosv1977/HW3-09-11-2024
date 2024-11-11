@@ -72,7 +72,7 @@ public class Main {
         System.out.println("Задача 7. Сравнение чисел.");
         //Задание чисел
         int one=7;
-        int two=12;
+        int two=10;
         int three=8;
         //Условия сравнения чисел
         if (one>two && one>three) {
